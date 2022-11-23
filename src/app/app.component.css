@@ -1,0 +1,12 @@
+.body {
+  background-color: peru;
+  padding: 10em;
+  text-align: center;
+}
+
+.footer {
+  background-color: rgb(129, 44, 129);
+  color: white;
+  padding: 2em;
+  text-align: center;
+}
